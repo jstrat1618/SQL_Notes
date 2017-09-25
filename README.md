@@ -1,1 +1,2 @@
 # SQL_Notes
+I took SQL bootcamp course through udemy found [here](https://www.udemy.com/the-complete-sql-bootcamp/learn/v4/overview). The course uses PostgreSQL. These are my notes as well as my solutions to the assessments.
